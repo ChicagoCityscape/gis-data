@@ -6,10 +6,6 @@ The location of train station entrances in Chicago, for Chicago Transit Authorit
 
 This data is licensed CC0, public domain. 
 
-## Data
-
-All geodata is stored in GeoJSON, because it's human-readable and portable. 
-
 ### Chicago train stations
 
 The entrance locations are not well-defined and discussion about new or modified entrances is welcome. 
@@ -28,4 +24,4 @@ GeoJSON: [View CTA station entrances](https://github.com/ChicagoCityscape/tod-da
 This includes 249 entrances at 90 Metra stations in Chicago and within 1,200 feet of Chicago. This also includes the upcoming Peterson and Auburn Gresham stations.
 
 ##### Download
-[View Metra station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_metra/metra_entrances.json), or [as CSV](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra.csv).
+GeoJSON: [View Metra station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_metra/metra_entrances.json), or [as CSV](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra.csv).
