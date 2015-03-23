@@ -18,6 +18,6 @@ This dataset includes proposed entrances at under-construction stations: Wilson 
 
 #### Metra
 
-This includes 249 entrances at XXX Metra stations. 
+This includes 249 entrances at 90 Metra stations in Chicago and within 1,200 feet of Chicago. 
 
 [View Metra station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_metra/metra_entrances.json).
