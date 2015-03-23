@@ -1,8 +1,6 @@
 # Train Station Info
 
-## About
-
-[Yonah Freemark](http://www.thetransportpolitic.com) created this dataset. 
+The location of train station entrances in Chicago, for Chicago Transit Authority 'L' and Metra commuter rail stations, created by [Yonah Freemark](http://www.thetransportpolitic.com). 
 
 ## License
 
