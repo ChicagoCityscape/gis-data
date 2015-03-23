@@ -20,10 +20,12 @@ This includes all 146 CTA stations, having 383 entrances. The [CTA Rail Stations
 
 This dataset includes proposed entrances at under-construction stations: Wilson (Red & Purple Lines; there will be 3 entrances), Washington-Wabash (it's unknown where the entrances will actually be), and 95th Street (Red Line, 2 entrances).
 
-[View CTA station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_cta/cta_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_cta/cta_entrances.json).
+##### Download
+GeoJSON: [View CTA station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_cta/cta_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_cta/cta_entrances.json), or [as CSV](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_cta/cta.csv).
 
 #### Metra
 
 This includes 249 entrances at 90 Metra stations in Chicago and within 1,200 feet of Chicago. This also includes the upcoming Peterson and Auburn Gresham stations.
 
-[View Metra station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_metra/metra_entrances.json).
+##### Download
+[View Metra station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_metra/metra_entrances.json), or [as CSV](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra.csv).
