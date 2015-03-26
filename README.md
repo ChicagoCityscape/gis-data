@@ -17,7 +17,7 @@ This includes all 144 CTA stations, having 383 entrances. The [CTA Rail Stations
 This dataset includes proposed entrances at under-construction stations: Wilson (Red & Purple Lines; there will be 4 entrances), Washington-Wabash (actual entrances are estimated), and 95th Street (Red Line, 3 entrances).
 
 #### Download
-GeoJSON: [View CTA station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_cta/cta_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_cta/cta_entrances.json), or [as CSV](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_cta/cta.csv).
+GeoJSON: [View CTA station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_cta/cta.geojson) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_cta/cta.geojson), or [as CSV](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_cta/cta.csv).
 
 ### Metra
 
