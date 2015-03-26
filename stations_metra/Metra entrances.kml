@@ -1,0 +1,3237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Metra entrances</name>
+	<Style id="icon-503-FFDD5E">
+		<IconStyle>
+			<color>ff5eddff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Van Buren Street</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6239195,41.8769875,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Van Buren Street</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.62296069999999,41.8781948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Van Buren Street</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.624464,41.8781469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Van Buren Street</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.62445870000001,41.8784085,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Museum Campus</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6219964,41.869399,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Museum Campus</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6216853,41.869395,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>18th Street</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6179436,41.8580031,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>McCormick Place</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.61637450000001,41.8514822,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>27th Street</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6139739,41.8445731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>47th Street</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.59137629999999,41.8098002,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>51st/53rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5875139,41.8023786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>51st/53rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.58736910000002,41.8024106,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>51st/53rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.58689699999999,41.7996933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>55th-56th-57th</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5872189,41.7951302,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>55th-56th-57th</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.58707939999999,41.7951382,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>55th-56th-57th</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5876695,41.7932145,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>55th-56th-57th</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.58751119999999,41.7932365,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>55th-56th-57th</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5880128,41.7916767,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>55th-56th-57th</name>
+		<description>Line: Electric, South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric, South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5878948,41.7916727,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>59th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5888523,41.787995,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>59th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.58872359999999,41.787999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>63rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5905824,41.7804169,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>63rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5904214,41.7804349,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>63rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.59093369999999,41.77885880000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>63rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5907916,41.77886280000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>67th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.59217289999999,41.7733921,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>67th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5920388,41.7733941,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stony Island</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5893351,41.7660324,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stony Island</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5865202,41.7660634,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bryn Mawr</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5782214,41.7661414,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bryn Mawr</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.57644310000001,41.7661614,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>South Shore</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5663406,41.7658893,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>South Shore</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5651161,41.7645779,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Windsor Park</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5601044,41.7590289,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Windsor Park</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5583006,41.7573643,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Cheltenham</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5542559,41.7536105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Cheltenham</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5525755,41.75204180000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>83rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5515884,41.7464257,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>83rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5515616,41.7447586,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>87th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5481659,41.7375357,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>South Chicago</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5477649,41.7265798,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>South Chicago</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5478172,41.7281832,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>75th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.59539959999999,41.7588359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>79th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5971243,41.7512724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>83rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.5987712,41.7441222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>87th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6004207,41.7368853,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>91st</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.60208100000001,41.7295634,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>95th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.60384860000001,41.7219044,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.60720670000001,41.7073084,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>107th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.60887769999999,41.69996920000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>111th</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6105434,41.6926471,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kensington</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.61237530000001,41.6856287,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>State St</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6205641,41.6744655,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>State St</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6217188,41.6744855,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stewart Ridge</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6313184,41.6743613,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stewart Ridge</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.632048,41.6743353,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>West Pullman</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.64198690000001,41.674159,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>West Pullman</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6441877,41.6741359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Racine</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.651899,41.6740408,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ashland</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6607355,41.6692233,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Burr Oak</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6685676,41.6624618,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Blue Island</name>
+		<description>Line: Electric</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Electric</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6763581,41.6556194,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hegewisch</name>
+		<description>Line: South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.54244210000002,41.6454262,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hegewisch</name>
+		<description>Line: South Shore</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>South Shore</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.54502239999999,41.6474185,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rogers Park</name>
+		<description>Line: UP-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67540049999999,42.0094187,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rogers Park</name>
+		<description>Line: UP-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67545819999999,42.009058,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rogers Park</name>
+		<description>Line: UP-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6756178,42.0090451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rogers Park</name>
+		<description>Line: UP-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67563389999999,42.0100944,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rogers Park</name>
+		<description>Line: UP-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67549169999999,42.0100954,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Peterson Avenue</name>
+		<description>Line: UP-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6749057,41.9909003,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Peterson Avenue</name>
+		<description>Line: UP-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67515779999999,41.9909203,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ravenswood</name>
+		<description>Line: UP-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67428339999999,41.9671247,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ravenswood</name>
+		<description>Line: UP-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6745087,41.9671327,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Clybourn</name>
+		<description>Line: UP-North, UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North, UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6685461,41.9175312,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Clybourn</name>
+		<description>Line: UP-North, UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North, UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6679453,41.91732560000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Clybourn</name>
+		<description>Line: UP-North, UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-North, UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6680312,41.9167967,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Irving Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.72989629999999,41.9523363,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Irving Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7310483,41.9529956,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Irving Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7312414,41.9534902,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Jefferson Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.76344539999999,41.9717733,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Jefferson Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7615866,41.9702557,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Jefferson Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7623591,41.9706386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gladstone Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7780071,41.9799149,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gladstone Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.77815460000001,41.9796407,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Norwood Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7988881,41.9918134,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Norwood Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.79947009999999,41.99197180000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Norwood Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.799564,41.9918951,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Park Ridge</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8309579,42.0096589,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Park Ridge</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8308761,42.0097446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Park Ridge</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.83188730000001,42.0101123,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Park Ridge</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8315011,42.0102139,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Park Ridge</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.83325929999999,42.0109732,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edison Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8171486,42.0019815,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edison Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.81722900000001,42.0019018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edison Park</name>
+		<description>Line: UP-Northwest</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-Northwest</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8179398,42.0026203,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edgebrook</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.765626,41.9974807,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edgebrook</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7655013,41.99749670000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edgebrook</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7660257,41.9982043,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edgebrook</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7663663,41.9988461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edgebrook</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.76619060000002,41.9988651,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edgebrook</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.76597339999999,41.9984525,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edgebrook</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7656703,41.9978564,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Forest Glen</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7553733,41.97771960000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Forest Glen</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7552915,41.977892,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Forest Glen</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7556026,41.9786428,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Forest Glen</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7558695,41.9789937,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mayfair</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7462403,41.960625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mayfair</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.74659170000001,41.960616,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mayfair</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7461612,41.95993090000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Grayland</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.74057550000001,41.9491117,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Grayland</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7400538,41.9486878,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Grayland</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7401048,41.9481442,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Healy</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7278833,41.9246071,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Healy</name>
+		<description>Line: MD-North</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.72771969999999,41.924617,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Western</name>
+		<description>Line: MD-North, MD-West, NCS</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North, MD-West, NCS</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6880136,41.889056,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Western</name>
+		<description>Line: MD-North, MD-West, NCS</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-North, MD-West, NCS</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.68831670000002,41.8892347,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Grand/Cicero</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7458474,41.9145174,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Grand/Cicero</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.746172,41.9145533,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Grand/Cicero</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7461666,41.9143617,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Grand/Cicero</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.745834,41.9143198,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hanson Park</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7661021,41.9168306,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hanson Park</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.76705699999999,41.9168206,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Galewood</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7864373,41.91661010000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Galewood</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7853617,41.9164953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Galewood</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7853684,41.9163636,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mars</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.79497739999999,41.919523,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mars</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7949721,41.9193573,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mars</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7943377,41.9190709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mont Clare</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.80083399999999,41.92148580000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mont Clare</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.800826,41.92165840000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mont Clare</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.80135439999999,41.921857,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mont Clare</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.80236560000002,41.9222222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mont Clare</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.80236960000001,41.92204660000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Elmwood Park</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.81374479999999,41.9247837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Elmwood Park</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.813765,41.924651,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Elmwood Park</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8149679,41.9247747,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Elmwood Park</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.81594830000002,41.92525160000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Elmwood Park</name>
+		<description>Line: MD-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8159872,41.9251159,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>River Grove</name>
+		<description>Line: MD-West, NCS</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West, NCS</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8360206,41.9309299,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>River Grove</name>
+		<description>Line: MD-West, NCS</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West, NCS</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.83597899999999,41.9308261,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>River Grove</name>
+		<description>Line: MD-West, NCS</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>MD-West, NCS</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.83651949999999,41.9310875,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Franklin Park</name>
+		<description>Line: NCS</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>NCS</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.86025429999999,41.9386877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Schiller Park</name>
+		<description>Line: NCS</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>NCS</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8704146,41.9624798,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rosemont</name>
+		<description>Line: NCS</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>NCS</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.87396579999999,41.9761962,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>O&apos;Hare Transfer</name>
+		<description>Line: NCS</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>NCS</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8805842,41.9950837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kedzie</name>
+		<description>Line: UP-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7064779,41.8882493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Park</name>
+		<description>Line: UP-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.80226500000001,41.8871591,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Park</name>
+		<description>Line: UP-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.800881,41.887185,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Park</name>
+		<description>Line: UP-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8033593,41.8871031,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Park</name>
+		<description>Line: UP-West</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>UP-West</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8033432,41.8868136,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Halsted</name>
+		<description>Line: BNSF</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>BNSF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6468524,41.8604223,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Halsted</name>
+		<description>Line: BNSF</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>BNSF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6468632,41.8603044,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Western</name>
+		<description>Line: BNSF</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>BNSF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.685605,41.8579552,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Western</name>
+		<description>Line: BNSF</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>BNSF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.68597509999999,41.8574897,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Cicero</name>
+		<description>Line: BNSF</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>BNSF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7443856,41.84456110000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Cicero</name>
+		<description>Line: BNSF</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>BNSF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7443615,41.8443293,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Summit</name>
+		<description>Line: Heritage Corridor</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Heritage Corridor</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.80993479999999,41.7947883,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Summit</name>
+		<description>Line: Heritage Corridor</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Heritage Corridor</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.8091234,41.7952302,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wrightwood</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7033854,41.7491152,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wrightwood</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7041605,41.7485349,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ashburn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.712875,41.7415025,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ashburn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.71304000000001,41.7415025,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ashburn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7130829,41.7413234,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ashburn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7132505,41.7413384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ashburn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7141812,41.7406069,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ashburn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7140431,41.7405599,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Lawn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.74907279999999,41.7193388,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Lawn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.7483271,41.7196411,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Lawn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.74984120000001,41.7191626,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Lawn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.749235,41.7194119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Lawn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.748197,41.7198193,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oak Lawn</name>
+		<description>Line: SouthWest Service</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>SouthWest Service</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.74790470000001,41.7198233,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>35th/Lou Jones</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.62915390000001,41.8310943,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>35th/Lou Jones</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.62970780000001,41.8310783,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>35th/Lou Jones</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.62931620000001,41.8326861,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Auburn/Gresham</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6395971,41.7507721,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Auburn/Gresham</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.63909820000001,41.7507441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gresham</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.64479249999999,41.7362428,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gresham</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6439905,41.73792,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gresham</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6443687,41.737898,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Brainerd</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6582652,41.7322727,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Brainerd</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6582532,41.7321786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Brainerd</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6596399,41.7322667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Brainerd</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.65964390000001,41.7321466,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>91st/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6670723,41.7277929,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>91st/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6674598,41.727941,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>95th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6674598,41.7213018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>95th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6675846,41.7213018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>95th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.66726,41.7214299,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>99th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6673727,41.713826,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>99th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6672694,41.7137909,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>99th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6675121,41.7128779,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>99th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.66758729999999,41.7121381,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>99th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6674438,41.7121381,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.66892970000001,41.7065035,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6688036,41.7065065,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6688506,41.7059648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.66907449999999,41.7059648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6691282,41.7048504,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6689968,41.7048685,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>107th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6698188,41.6991631,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>107th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6696941,41.69916510000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>107th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6697169,41.6987516,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>107th/Beverly Hills</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.66982419999999,41.6979285,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>111th/Morgan Park</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6705256,41.693263,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>111th/Morgan Park</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67039149999999,41.6933211,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>111th/Morgan Park</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67074289999999,41.6926431,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>111th/Morgan Park</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6706758,41.6920472,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>111th/Morgan Park</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6705511,41.6920523,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>115th/Morgan Park</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67154890000002,41.6847453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>115th/Morgan Park</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6714537,41.6847453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>115th/Morgan Park</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6716615,41.6850227,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>115th/Morgan Park</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6714228,41.6859532,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>119th</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6724809,41.6772512,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>119th</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6723468,41.6772412,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>119th</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6723978,41.67655,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>119th</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67258820000001,41.6765641,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>119th</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6724648,41.6762976,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>119th</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67263920000001,41.675935,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>123rd</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67370000000001,41.6700578,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Prairie St</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6750907,41.662587,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Prairie St</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67522750000002,41.6617945,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Blue Island-Vermont</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6773089,41.6554411,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Blue Island-Vermont</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6771614,41.655411,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Blue Island-Vermont</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6768878,41.655423,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Blue Island-Vermont</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6777381,41.6546375,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Blue Island-Vermont</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6781163,41.6546475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Blue Island-Vermont</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.67833349999999,41.6546314,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.656271,41.7050146,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.65609000000001,41.7058797,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.65590090000001,41.7059738,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>103rd</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6563421,41.7052119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>95th-Longwood</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6502629,41.7212257,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>95th-Longwood</name>
+		<description>Line: Rock Island</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+				<value>Rock Island</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6503862,41.7212307,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Union Station</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.63972579999999,41.878752,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Union Station</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.639522,41.878764,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Union Station</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6386341,41.8791793,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Union Station</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6386368,41.8781529,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Union Station</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.640737,41.8782068,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Union Station</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6407665,41.8791494,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ogilvie Transportation Center</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6405117,41.8819692,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ogilvie Transportation Center</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6411447,41.88404,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ogilvie Transportation Center</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.64001279999999,41.8840759,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ogilvie Transportation Center</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6403213,41.8831533,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LaSalle Street</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6326555,41.8753768,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LaSalle Street</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6317999,41.8754368,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Millennium Station</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.62463440000001,41.8840679,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Millennium Station</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6247832,41.8843804,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Millennium Station</name>
+		<description>Line:</description>
+		<styleUrl>#icon-503-FFDD5E</styleUrl>
+		<ExtendedData>
+			<Data name="Line">
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-87.6247309,41.884676,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
