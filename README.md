@@ -50,6 +50,11 @@ This will create a new table called "metra entrances". The SRID of the "wkb_geom
 ogr2ogr -f "PostgreSQL" PG:"host=hostname port='5432' dbname='database_name' user='username' password='password'" "Metra entrances.kml"
 ````
 
+### convert PostGIS to GeoJSON
+````
+ogr2ogr -f GeoJSON cta.json PG:"host=hostname port='5432' dbname='database_name' user='username' password='password'" -sql "select name,agency,line,st_force2d(geom_4326) from cta" -t_srs "epsg:4326"
+````
+
 ### convert CSV to PostGIS
 This simply uploads a CSV file (with or without X/Y or latitude/longitude fields) to PostgreSQL. If there are coordinate fields they will not be recognized by PostGIS as geometry fields – you'll have to create them. The table will be called "cta". 
 ````
