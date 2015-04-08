@@ -21,7 +21,7 @@ GeoJSON: [View CTA station entrances](https://github.com/ChicagoCityscape/tod-da
 
 ### Metra
 
-This includes 249 entrances at 90 Metra stations in Chicago and within 1,200 feet of Chicago. This also includes the upcoming Peterson and Auburn Gresham stations.
+This includes 249 entrances at 90 Metra stations in Chicago and within 1,200 feet of Chicago (among others, including stations in Blue Island). This also includes the upcoming Peterson and Auburn Gresham stations. The ````station_id```` field is derived from the Metra stations GIS dataset on the Chicago open data portal. There were several stations with ````0```` in this field; those have been changed to 5-digit arbitrary IDs starting with 99. 
 
 #### Download
 GeoJSON: [View Metra station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_metra/metra_entrances.json), or [as CSV](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra.csv).
@@ -67,4 +67,22 @@ BEGIN;
 SELECT AddGeometryColumn ('cta','geom_4326',4326,'POINT',2);
 UPDATE cta SET geom_4326 = ST_SetSRID(ST_MakePoint(x::numeric, y::numeric),4326);
 COMMIT;
+````
+
+### simplify a shapefile
+Run this command in the directory where you have the "Chicago-Parcels.shp" file stored. On Mac, the easiest way to do that is to drag the directory icon from the Finder onto the Terminal icon in the Dock. 
+
+The number after the ````-simplify```` argument is the tolerance you want. There's no magic number, or even a rule of thumb. The best number depends on the complexity (number of vertices and edges) of your shape. Too high of a number and you can simplify the shape to non-existence (it will disappear).
+
+For our purpose, we need to simplify the geometry of the shapes of all the parcels in the City of Chicago to display on a web map (starting at 99.7 MB). Tested (without inspection of shape integrity):
+* .0009: 4.5% file size reduction
+* .009: 12.0% reduction
+* .09: 16.0% reduction
+* .9: 16.9% reduction
+````
+ogr2ogr -f "ESRI Shapefile" parcels_chicago_simplified.shp -simplify 0.0009 "City-Parcels-New.shp"
+````
+### convert PostGIS to simplified shapefile and re-project
+````
+ogr2ogr -f "ESRI Shapefile" parcel_chicago_4326.shp PG:"host=localhost port='5432' dbname='database' user='username' password='password' " -sql "SELECT pin14, ST_SimplifyPreserveTopology(geom, 0.9) as geom FROM parcel_chicago" -t_srs "epsg:4326"
 ````
