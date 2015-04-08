@@ -52,9 +52,11 @@ ogr2ogr -f "PostgreSQL" PG:"host=hostname port='5432' dbname='database_name' use
 
 ### convert PostGIS to GeoJSON
 ````
-ogr2ogr -f GeoJSON cta.geojson PG:"host=hostname port='5432' dbname='database_name' user='username' password='password'" -sql "select name,'CTA' as agency,description,stationid,st_force2d(geom_4326) from cta" -t_srs "epsg:4326"
+ogr2ogr -f GeoJSON -lco COORDINATE_PRECISION=6 cta.geojson PG:"host=hostname port='5432' dbname='database_name' user='username' password='password'" -sql "select name,'CTA' as agency,description,stationid,st_force2d(geom_4326) from cta" -t_srs "epsg:4326"
 ````
 Note: The ````st_force2d()```` function is used to convert a three-point geometry (XYZ) to a two-point geometry (XY) because when you upload KML to PostGIS it creates an XYZ (three point) geometry (where Z is elevation), and for some reason this cannot be exported to GeoJSON.
+
+The "-lco COORDINATE_PRECISION=6" argument is specific to GeoJSON and it means the coordinates will have a maximum of 6 digits to the right of the decimal point. 
 
 ### convert CSV to PostGIS
 This simply uploads a CSV file (with or without X/Y or latitude/longitude fields) to PostgreSQL. If there are coordinate fields they will not be recognized by PostGIS as geometry fields – you'll have to create them. The table will be called "cta". 
