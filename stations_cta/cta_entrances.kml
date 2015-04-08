@@ -1,0 +1,3058 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sql_statement" id="sql_statement">
+	<SimpleField name="agency" type="string"></SimpleField>
+	<SimpleField name="line" type="string"></SimpleField>
+</Schema>
+<Folder><name>sql_statement</name>
+  <Placemark>
+	<name>18th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6691443,41.8578493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35th/Archer</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Orange Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6806322,41.8292736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6244104,41.7227292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6259969,41.8797146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Addison</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7184057,41.9466041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Addison</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6537377,41.9473641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Armitage</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.652691599999983,41.9181958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6655206,41.8854198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.665491099999983,41.885302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.666743699999984,41.8851043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6664406,41.8852641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6671299,41.8855736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland/63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6637879,41.7787948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland/63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6645014,41.7789348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Austin</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.774606,41.887217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Austin</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7792382,41.8710828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7122742,41.939114600000011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6549916,41.8963567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7107078,41.8741106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7069634,41.8843415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.706107799999984,41.8842656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.70614,41.8840759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7059817,41.8844274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7085271,41.96610660000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kimball</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.712926,41.968325299999989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kimball</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7132546,41.9682346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6277886,41.8850125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6280676,41.8850175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laramie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7552271,41.8868955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laramie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7554068,41.8868955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laramie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7554148,41.8874905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laramie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7552204,41.8870672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laramie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.754623600000016,41.887223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laramie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7546477,41.8870832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.63136,41.8757673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6325898,41.8753858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle/Van Buren</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6314378,41.8768338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle/Van Buren</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6314445,41.8769276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle/Van Buren</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.632172700000012,41.8769107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lawrence</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.658513299999981,41.9689585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Logan Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.707921,41.9291479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Logan Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7107574,41.930896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Logan Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7077198,41.9297127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loyola</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6612854,42.0014374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Purple Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6794198,42.0333628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Merchandise Mart</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6339725,41.8895811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Midway</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Orange Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7386671,41.786649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.629284,41.8799642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.629466399999984,41.8799242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6292786,41.8802338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6294717,41.8802118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6295173,41.8812423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6292706,41.8812363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6292786,41.8814739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montrose</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6751605,41.9616442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montrose</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6751363,41.9614008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montrose</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7429292,41.9608922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montrose</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.742652899999982,41.9606689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morgan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.65207740000001,41.8856415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morgan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6512995,41.8855257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morgan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6513129,41.8856854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morse</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.665952399999981,42.0080027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North and Clybourn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6489741,41.910723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Noyes</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Purple Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.683451199999979,42.0586331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7942505,41.8869654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oakton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Yellow Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7473575,42.0264514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oakton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Yellow Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7479248,42.0284219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>O'Hare</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.9040039,41.97759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7938724,41.8722971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.789157,41.8718977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paulina</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6708126,41.9437153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paulina</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6716307,41.9437153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Polk</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6695842,41.8715242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.725535,41.8739149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Orange Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7248752,41.7998793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Orange Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7243656,41.8000872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7236843,41.8538857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.724652599999985,41.8539636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.724652599999985,41.8537419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7273026,41.8856554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7273214,41.8854538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.726275299999983,41.8855866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7262847,41.8853869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7259682,41.8855636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pulaski</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7259602,41.8853979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quincy</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.633708200000015,41.8788858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quincy</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6338343,41.8790815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quincy</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6337083,41.8790855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quincy</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6337029,41.8782707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quincy</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6336922,41.8785313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quincy</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.633829,41.8788808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quincy</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6338236,41.8785343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Racine</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6571441,41.8759121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Racine</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6616824,41.8758681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ridgeland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.784414899999987,41.8870892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rockwell</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6939373,41.9662193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosemont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.860471599999983,41.9839464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sedgwick</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6386596,41.9104046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sedgwick</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6396239,41.9104794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sedgwick</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6396306,41.9103567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sheridan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6547113,41.9539111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Boulevard</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Purple Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6784059,42.0273699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southport</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6637638,41.9438291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southport</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.664032,41.943835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State/Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6276062,41.8856874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State/Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6282889,41.8858332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State/Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6282822,41.8856814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State/Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6276277,41.8858352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thorndale</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6590645,41.9901368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UIC-Halsted</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6517904,41.8754727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UIC-Halsted</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6496071,41.8755127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UIC-Halsted</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6473325,41.8755406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6293483,41.8824694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.629343,41.883736399999989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6295951,41.8837904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6297158,41.883375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6293564,41.882703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6295696,41.8824504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.629566899999986,41.882716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6243701,41.721558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6243943,41.7218663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>87th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6247805,41.7364429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>87th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6247685,41.7361497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6251882,41.7511523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6251936,41.7508662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6258279,41.7690792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6258212,41.7688391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6277484,41.8840609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.627743,41.8837245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.628035399999987,41.8837245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6278906,41.8815408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6278557,41.8802627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6278798,41.8812742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6276465,41.8815568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6276143,41.8800011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6276559,41.8812892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cottage Grove-East 63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.606023799999988,41.7805309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King Drive</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.615712,41.7799809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King Drive</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6155645,41.7806049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King Drive</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6157281,41.7806009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King Drive</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6157013,41.7804009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King Drive</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6155189,41.7799849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland/63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6639381,41.7788348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Halsted</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6445913,41.7790368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cottage Grove-East 63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6060373,41.7801829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cottage Grove-East 63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6061043,41.780735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cottage Grove-East 63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.605812,41.780735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cottage Grove-East 63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6057985,41.7801669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cottage Grove-East 63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6060158,41.7803269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47th-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6316255,41.8092664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63rd-Dan Ryan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6310033,41.7800609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cermak-Chinatown</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6313251,41.8544651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cermak-Chinatown</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6309872,41.8530506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cermak-Chinatown</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6309094,41.8527169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garfield</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6311843,41.7946263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harrison</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6278181,41.8722023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harrison</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6277068,41.8741426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harrison</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6274601,41.8741506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6278289,41.8789976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6278262,41.878737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6275767,41.8789776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6275794,41.878714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6275499,41.8777335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6277953,41.8777594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.627798,41.8776196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.627541899999983,41.8774668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6277967,41.8774708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roosevelt/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Green, Orange Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6265454,41.8676114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6276197,41.8802587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monroe</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6278436,41.8799752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roosevelt/State</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Green, Orange Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6275647,41.8678211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sox-35th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6306787,41.8310823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sox-35th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6307645,41.8345217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roosevelt/State</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Green, Orange Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6272656,41.8680149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roosevelt/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Green, Orange Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6266581,41.8672728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wellington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6533166,41.9362096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wellington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.65333,41.9371174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Addison</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.653694699999988,41.9471527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Armitage</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6526862,41.9180441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6533702,41.9390568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6533809,41.9400404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6533782,41.939795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6278356,41.8965932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.627922700000013,41.8967749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6284485,41.8965863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6284122,41.8967739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark and Division</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6315598,41.9037583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark and Division</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6313439,41.9037523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark and Division</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6313533,41.9040747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark and Division</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6315612,41.9040667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark and Division</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6328164,41.9039809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark and Division</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6327936,41.9036974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark and Division</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.632732,41.9037703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Diversey</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6531664,41.9325861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Diversey</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.653161,41.9327497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fullerton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6528418,41.9252846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fullerton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6528203,41.9243766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fullerton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6528525,41.9255021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.627849,41.8917755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.628372,41.8915948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6283023,41.8917465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6281936,41.8917965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.62768,41.8916038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6280461,41.8840639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6280783,41.8855207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6278061,41.8855197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6574901,41.9635788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.657989,41.965262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6580399,41.9655093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6886426,41.9662712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Addison</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6747099,41.9481641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Addison</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.674743399999983,41.9468175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Addison</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.67473,41.9470509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Argyle</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6585697,41.9733776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Berwyn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.658707799999988,41.9780725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bryn Mawr</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.658858,41.983765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bryn Mawr</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6588714,41.9835497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Damen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6793836,41.9664048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Damen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6789638,41.9664138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Francisco</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7033907,41.9661475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Francisco</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7011752,41.9661655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Granville</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6591718,41.9944717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Howard</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Purple, Yellow Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6732856,42.0192962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Howard</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Purple, Yellow Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6729718,42.0192603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Howard</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Purple, Yellow Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6728457,42.0184373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Howard</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Purple, Yellow Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6734546,42.0194914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irving Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6749486,41.9540528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irving Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6749352,41.9543639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jarvis</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.669155,42.0159026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7107789,41.9660877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morse</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6660061,42.0089434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6880847,41.9663549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6883194,41.9663051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Red, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6576456,41.9640534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Orange Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6840869,41.8048559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35th-Bronzeville-IIT</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6258534,41.8312921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35th-Bronzeville-IIT</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6259071,41.8329269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6192431,41.8165232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6190527,41.8167161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.618742899999987,41.8165392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6188663,41.8094523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6190969,41.8092844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6186141,41.8092884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51st</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.618611499999986,41.8021907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51st</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6184988,41.8019747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51st</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6182789,41.8021467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Orange Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6655179,41.8391619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cermak-McCormick Place</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.626414,41.852639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cermak-McCormick Place</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6264247,41.8530246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cermak-McCormick Place</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6263845,41.8511965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6353833,41.8955261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.636019,41.8956249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6354343,41.8965054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6360646,41.8964944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garfield</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6183406,41.7948963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Halsted</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Orange Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.648046,41.846777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Indiana</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6217416,41.8218183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Indiana</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.621358,41.8218123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Orange Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7043831,41.804518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King Drive</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6157549,41.7801189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Merchandise Mart</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6340999,41.8894983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Merchandise Mart</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6341482,41.8887076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western-Congress</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6864928,41.8755606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western/Milwaukee</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.687555,41.9165652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western/Milwaukee</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.687522799999982,41.9160183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Austin</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.774490699999987,41.8707512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>California</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6971841,41.9221853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7450991,41.87163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cumberland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8392084,41.9838786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cumberland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8391373,41.9832964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cumberland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8392714,41.985047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8165638,41.8743663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8166282,41.8741106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8081203,41.8736593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.804681699999989,41.8733277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8071225,41.9823414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8080264,41.9823334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Illinois Medical District</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6727974,41.8756724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Illinois Medical District</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6763272,41.8756125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irving Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7278417,41.9521657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irving Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7306151,41.9537535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irving Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.730145800000017,41.9534843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line, Metra</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7634776,41.9717832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line, Metra</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7616188,41.9702577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7060944,41.8744382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6294744,41.878726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6556246,41.896187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.654998299999988,41.8961251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark/Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue, Pink, Green, Purple, Brown, Orange Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6314405,41.8858551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark/Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue, Pink, Green, Purple, Brown, Orange Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.630651899999989,41.8856774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark/Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue, Pink, Green, Purple, Brown, Orange Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.630668,41.8858372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark/Lake</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue, Pink, Green, Purple, Brown, Orange Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6317221,41.8856515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clinton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6412319,41.8856325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clinton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6412144,41.8854727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clinton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6414169,41.8855117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clinton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6414169,41.885957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Damen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6776241,41.9098527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Division</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6676878,41.903937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Damen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6785427,41.9105453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Division</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6673338,41.9036016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6480554,41.8912653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.647721499999989,41.8915399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6291901,41.877348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6291955,41.8775637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6293832,41.8773201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6292142,41.878744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackson</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.629407299999983,41.8775338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6311588,41.8757643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western/Milwaukee</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6871419,41.9160542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6859134,41.8543951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6855057,41.8544031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54th/Cermak</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7588749,41.851734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54th/Cermak</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7542669,41.8518179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6670843,41.8851023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>California</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6956874,41.8543032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>California</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6953924,41.8543072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>California</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.696547100000018,41.8843285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>California</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.696294899999984,41.8839741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>California</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6964881,41.8841378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>California</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6964666,41.883971099999989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7152058,41.8540375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7149028,41.8540255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7443963,41.8519338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7466494,41.8519098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clinton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6408496,41.8754907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clinton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.640855,41.8756345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clinton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6411635,41.8756405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clinton</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6411581,41.8755087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Damen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6782048,41.854495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Damen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6760322,41.8545909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7054507,41.8541874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.705187800000019,41.8541794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kostner</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7322459,41.8537678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kostner</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Pink Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7344453,41.8537478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6313372,41.8754547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Blue Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6311749,41.8754637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morgan</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green, Pink Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6521042,41.8855117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>California</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6974845,41.8841488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.765320200000019,41.8873288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.743513900000011,41.8866059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.743559499999989,41.8863863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7452278,41.8869614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7450749,41.8864761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7452332,41.8867397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conservatory</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.717015,41.8850843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conservatory</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.71703650000002,41.8848907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conservatory</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7169681,41.8847299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conservatory</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7169439,41.8852571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Davis</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Purple Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6838347,42.0478446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dempster</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Yellow Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7521586,42.0395822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dempster</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Yellow Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7523437,42.0395245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dempster</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Purple Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6815441,42.0416898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8033647,41.8867996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8051081,41.8867677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line, Metra</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8033808,41.8870972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Green Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7062848,41.8840739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wells</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6339751,41.8829417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.626237,41.8789347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6259929,41.8792582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6262088,41.8792622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.626245,41.8796816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Purple Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.685774,42.06410540000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Davis</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Purple Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6835343,42.0478626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Foster</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Purple Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6836684,42.0537878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harold Washington Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.628005900000019,41.8770035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harold Washington Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.629389900000021,41.8768467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harold Washington Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.62991030000002,41.8769376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harold Washington Library</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6280072,41.8768607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle/Van Buren</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.631872299999984,41.8767739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Linden</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Purple Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6908648,42.0736229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wells</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6339859,41.882734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wells</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6337713,41.8827659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wells</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6339456,41.8826242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wells</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.633774,41.8826481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wells</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.633924199999981,41.8815987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wells</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6337351,41.8816017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wells</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.633782,41.8829896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.626086799999982,41.8823146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6262611,41.8823187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6260895,41.8829657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington/Wabash</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">CTA</SimpleData>
+		<SimpleData name="line">Brown, Purple, Orange, Pink, Green Lines</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6263228,41.8829636</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

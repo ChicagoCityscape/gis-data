@@ -1,0 +1,1986 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sql_statement" id="sql_statement">
+	<SimpleField name="agency" type="string"></SimpleField>
+	<SimpleField name="line" type="string"></SimpleField>
+</Schema>
+<Folder><name>sql_statement</name>
+  <Placemark>
+	<name>103rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6072067,41.7073084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.656271,41.7050146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stewart Ridge</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.632048,41.6743353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Park Ridge</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8318873,42.0101123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Park Ridge</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.831501099999983,42.0102139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Park Ridge</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8332593,42.0109732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edison Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8171486,42.0019815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edison Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.817229,42.0019018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edison Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8179398,42.0026203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Healy</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7278833,41.9246071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">BNSF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.685605,41.8579552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35th/Lou Jones/Bronzeville</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6291539,41.8310943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35th/Lou Jones/Bronzeville</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6297078,41.8310783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35th/Lou Jones/Bronzeville</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6293162,41.8326861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auburn/Gresham</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6395971,41.7507721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auburn/Gresham</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6390982,41.7507441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gresham</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6447925,41.7362428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gresham</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6439905,41.73792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gresham</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6443687,41.737898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museum Campus</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.621685299999982,41.869395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West, MD-North, NCS, BNSF, Heritage, SWS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6386368,41.8781529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18th Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6179436,41.8580031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27th Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6139739,41.8445731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47th Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5913763,41.8098002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51st/53rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.587369100000018,41.8024106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51st/53rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5875139,41.8023786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51st/53rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.586897,41.7996933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55th-56th-57th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5872189,41.7951302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Buren Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6239195,41.8769875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Buren Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6229607,41.8781948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Buren Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.624464,41.8781469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Buren Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6244587,41.8784085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museum Campus</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6219964,41.869399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rogers Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6754005,42.0094187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rogers Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6754582,42.009058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rogers Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6756178,42.0090451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rogers Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6756339,42.0100944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rogers Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6754917,42.0100954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peterson Avenue</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6751578,41.9909203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7615866,41.9702557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ravenswood</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6742834,41.9671247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ravenswood</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6745087,41.9671327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clybourn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North, UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6685461,41.9175312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clybourn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North, UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6679453,41.9173256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clybourn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North, UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6680312,41.9167967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irving Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7298963,41.9523363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irving Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7310483,41.9529956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irving Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7312414,41.9534902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7634454,41.9717733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peterson Avenue</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6749057,41.9909003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McCormick Place/11th Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6163745,41.8514822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6088777,41.6999692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6105434,41.6926471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55th-56th-57th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5880128,41.7916767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55th-56th-57th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5870794,41.7951382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55th-56th-57th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5876695,41.7932145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55th-56th-57th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5875112,41.7932365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55th-56th-57th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5878948,41.7916727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5887236,41.787999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5888523,41.787995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5907916,41.7788628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.590933699999979,41.7788588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5904214,41.7804349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5905824,41.7804169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stony Island</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5893351,41.7660324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stony Island</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5865202,41.7660634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bryn Mawr</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5782214,41.7661414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bryn Mawr</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5764431,41.7661614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Shore</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5663406,41.7658893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Shore</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5651161,41.7645779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Windsor Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5601044,41.7590289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Windsor Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5583006,41.7573643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cheltenham</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5542559,41.7536105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cheltenham</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.552575499999989,41.7520418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>83rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5515884,41.7464257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>83rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.551561599999985,41.7447586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>87th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.548165899999987,41.7375357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>93rd St (South Chicago)</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5478172,41.7281832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5953996,41.7588359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>93rd St (South Chicago)</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5477649,41.7265798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5971243,41.7512724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>83rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5987712,41.7441222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>87th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.600420699999987,41.7368853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91st</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.602081,41.7295634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6038486,41.7219044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kensington</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.612375300000011,41.6856287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.620564099999982,41.6744655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6217188,41.6744855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stewart Ridge</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6313184,41.6743613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Pullman</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6419869,41.674159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Pullman</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6441877,41.6741359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Racine</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.651899,41.6740408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6607355,41.6692233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burr Oak</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6685676,41.6624618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Island</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.676358099999987,41.6556194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hegewisch</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.542442100000017,41.6454262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hegewisch</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5450224,41.6474185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.762359099999983,41.9706386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gladstone Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7780071,41.9799149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gladstone Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7781546,41.9796407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Norwood Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.798888099999985,41.9918134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Norwood Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7994701,41.9919718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Norwood Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.799564,41.9918951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Park Ridge</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8309579,42.0096589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Park Ridge</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-Northwest</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8308761,42.0097446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgebrook</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.765626,41.9974807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgebrook</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7655013,41.9974967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgebrook</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7660257,41.9982043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgebrook</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7663663,41.9988461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgebrook</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.766190600000016,41.9988651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgebrook</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7659734,41.9984525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgebrook</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7656703,41.9978564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Glen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7553733,41.9777196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Glen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7552915,41.977892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Glen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7556026,41.9786428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Glen</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7558695,41.9789937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mayfair</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.746240299999982,41.960625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mayfair</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.74659170000001,41.960616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mayfair</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7461612,41.95993090000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grayland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7405755,41.9491117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grayland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7400538,41.9486878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grayland</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7401048,41.9481442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Galewood</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7853684,41.9163636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Healy</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7277197,41.924617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North, MD-West, NCS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6880136,41.889056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-North, MD-West, NCS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.688316700000016,41.8892347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand/Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7458474,41.9145174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand/Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.746172,41.9145533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand/Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7461666,41.9143617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand/Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.745834,41.9143198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hanson Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7661021,41.9168306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hanson Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.767057,41.9168206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Galewood</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7864373,41.9166101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Galewood</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.785361699999982,41.9164953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mont Clare</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.800834,41.9214858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elmwood Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.813765,41.924651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mont Clare</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8013544,41.921857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mont Clare</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.802365600000016,41.9222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mont Clare</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8023696,41.9220466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elmwood Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8137448,41.9247837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mont Clare</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.800826,41.9216584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elmwood Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8149679,41.9247747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elmwood Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.815948300000017,41.92525160000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elmwood Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8159872,41.9251159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>River Grove</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West, NCS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8360206,41.9309299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>River Grove</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West, NCS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.835979,41.9308261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>River Grove</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West, NCS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8365195,41.9310875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schiller Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">NCS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8704146,41.9624798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Franklin Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8602543,41.9386877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosemont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">NCS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8739658,41.9761962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>O'Hare Transfer</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">NCS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8805842,41.9950837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kedzie</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.706477899999982,41.8882493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.802265,41.8871591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.800881,41.887185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8033432,41.8868136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mars</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7949721,41.9193573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Halsted</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">BNSF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6468524,41.8604223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Halsted</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">BNSF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6468632,41.8603044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8033593,41.8871031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mars</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7943377,41.9190709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mars</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7949774,41.919523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brainerd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6582652,41.7322727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">BNSF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6859751,41.8574897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">BNSF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7443856,41.8445611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cicero</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">BNSF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7443615,41.8443293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Summit</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Heritage Corridor</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8091234,41.7952302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Summit</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Heritage Corridor</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8099348,41.7947883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wrightwood</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7033854,41.7491152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wrightwood</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7041605,41.7485349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashburn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.712875,41.7415025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashburn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.71304,41.7415025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashburn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7130829,41.7413234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashburn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7132505,41.7413384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashburn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7141812,41.7406069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashburn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7140431,41.7405599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Lawn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7490728,41.7193388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Lawn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.748327099999983,41.7196411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Lawn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7498412,41.7191626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Lawn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.749235,41.7194119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Lawn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.748197,41.7198193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Lawn</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">SouthWest Service</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7479047,41.7198233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brainerd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6582532,41.7321786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brainerd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6596399,41.7322667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brainerd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6596439,41.7321466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91st/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6670723,41.7277929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91st/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.667459799999989,41.727941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.667459799999989,41.7213018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6675846,41.7213018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.66726,41.7214299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6673727,41.713826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6672694,41.7137909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6675121,41.7128779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103rd/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6691282,41.7048504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103rd/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6689968,41.7048685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103rd/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6689297,41.7065035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103rd/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6688036,41.7065065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103rd/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.668850599999985,41.7059648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103rd/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6690745,41.7059648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6698242,41.6979285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6697169,41.6987516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.669694099999987,41.6991651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6698188,41.6991631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111th/Morgan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6705511,41.6920523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111th/Morgan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6705256,41.693263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115th/Morgan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6714228,41.6859532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115th/Morgan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6714537,41.6847453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115th/Morgan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.671548900000019,41.6847453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.672397799999985,41.67655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6726392,41.675935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6725882,41.6765641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6724809,41.6772512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6723468,41.6772412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119th</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6724648,41.6762976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>123rd</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6737,41.6700578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6675873,41.7121381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99th/Beverly Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6674438,41.7121381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111th/Morgan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6703915,41.6933211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111th/Morgan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6707429,41.6926431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111th/Morgan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6706758,41.6920472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115th/Morgan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6716615,41.6850227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Prairie St</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6750907,41.662587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Prairie St</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.67522750000002,41.6617945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Island-Vermont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.677308899999986,41.6554411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Island-Vermont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.677161399999989,41.655411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Island-Vermont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6768878,41.655423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Island-Vermont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6777381,41.6546375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Island-Vermont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6781163,41.6546475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Island-Vermont</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6783335,41.6546314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Longwood/95th Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6502629,41.7212257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.656342099999989,41.7052119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6559009,41.7059738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.65609,41.7058797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Longwood/95th Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.650386199999986,41.7212307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Millennium Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6246344,41.8840679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Millennium Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.624783199999982,41.8843804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West, MD-North, NCS, BNSF, Heritage, SWS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6407665,41.8791494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West, MD-North, NCS, BNSF, Heritage, SWS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.640737,41.8782068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West, MD-North, NCS, BNSF, Heritage, SWS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6386341,41.8791793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West, MD-North, NCS, BNSF, Heritage, SWS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.639522,41.878764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">MD-West, MD-North, NCS, BNSF, Heritage, SWS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6397258,41.878752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Millennium Station</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Electric, South Shore</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6247309,41.884676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.632655499999984,41.8753768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LaSalle Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">Rock Island</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6317999,41.8754368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ogilvie Transportation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-N, UP-NW, UP-W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6405117,41.8819692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ogilvie Transportation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-N, UP-NW, UP-W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.641144699999984,41.88404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ogilvie Transportation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-N, UP-NW, UP-W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6400128,41.8840759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ogilvie Transportation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sql_statement">
+		<SimpleData name="agency">Metra</SimpleData>
+		<SimpleData name="line">UP-N, UP-NW, UP-W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.640321299999982,41.8831533</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
