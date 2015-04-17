@@ -6,25 +6,54 @@ The location of train station entrances in Chicago, for Chicago Transit Authorit
 
 This data is licensed CC0, public domain. 
 
-## Chicago train stations
+## Data
+
+### Chicago train stations
 
 The entrance locations are not well-defined and discussion about new or modified entrances is welcome. 
 
-### CTA
+#### CTA
 
 This includes all 144 CTA stations, having 383 entrances. The [CTA Rail Stations datasets](https://data.cityofchicago.org/browse?q=cta%20rail%20stations&sortBy=relevance) on the Chicago open data portal has a non-specific point representing the station, where the point often represents the centroid of the platform or station house. 
 
 This dataset includes proposed entrances at under-construction stations: Wilson (Red & Purple Lines; there will be 4 entrances), Washington-Wabash (actual entrances are estimated), and 95th Street (Red Line, 3 entrances).
 
-#### Download
+##### Download
 GeoJSON: [View CTA station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_cta/cta.geojson) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_cta/cta.geojson), or [as CSV](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_cta/cta.csv).
 
-### Metra
+#### Metra
 
 This includes 249 entrances at 90 Metra stations in Chicago and within 1,200 feet of Chicago (among others, including stations in Blue Island). This also includes the upcoming Peterson and Auburn Gresham stations. The ````station_id```` field is derived from the Metra stations GIS dataset on the Chicago open data portal. There were several stations with ````0```` in this field; those have been changed to 5-digit arbitrary IDs starting with 99. 
 
-#### Download
+##### Download
 GeoJSON: [View Metra station entrances](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra_entrances.json) or [download them](https://github.com/ChicagoCityscape/tod-data/raw/master/stations_metra/metra_entrances.json), or [as CSV](https://github.com/ChicagoCityscape/tod-data/blob/master/stations_metra/metra.csv).
+
+### Other data
+
+#### MPEA taxing boundary 
+The Metropolitan Pier and Exposition Authority (also known as MPEA and McPier) owns Navy Pier and McCormick Place and imposes an additional sales tax on retail food and beverages in a large boundary containing all of the Central Business District (and then some). 
+
+Its boundaries, drawn by Yonah Freemark, are:
+
+Lake Michigan area boundaries:
+- 150 feet north of the north side of Diversey Avenue
+- 150 feet west of the west side of Ashland Avenue
+- South side of the Stevenson Expressway [This is an interesting boundary because it's an elevated highway, but there are businesses underneath that I think this boundary would include.]
+- Shoreline of Lake Michigan, including Navy Pier and all other improvements fixed to land, docks, or piers
+
+Midway:
+- South side of 55th St
+- East side of Central Ave
+- North side of 63rd St
+- West side of Cicero Ave
+
+O'Hare: All of ZIP code 60666
+
+##### Download
+* [McPier boundary as GeoJSON](https://github.com/ChicagoCityscape/tod-data/blob/master/mcpier/mcpier.geojson)
+* [McPier boundary as Shapefile, EPSG:4326](https://github.com/ChicagoCityscape/tod-data/blob/master/mcpier/mcpier_shapefile_4326.zip)
+* [McPier boundary as Shapefile, EPSG:3435](https://github.com/ChicagoCityscape/tod-data/blob/master/mcpier/mcpier_shapefile_3435.zip)
+* [McPier boundary as KML](https://github.com/ChicagoCityscape/tod-data/blob/master/mcpier/mcpier.kml)
 
 ## ogr2ogr cheatsheet
 
