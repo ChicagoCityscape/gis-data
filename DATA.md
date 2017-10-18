@@ -1,0 +1,61 @@
+Spatial data used on Chicago Cityscape (generally ordered by centrality to our service)
+
+- Building permits
+  - Chicago
+  - Evanston
+  - Naperville
+- Parcels
+  - Cook County (includes tax data and ownership*)
+- Building violations
+  - Chicago
+- Zoning
+  - Chicago
+    - General zones last updated September 11, 2017
+    - Planned Developments last updated July 6, 2017)
+    - Planned Manufacturing Districts (PMD)
+- Transit
+  - Chicago Transit Authority 'L' stations (and entrances within Chicago for more accurate distances)
+  - Metra stations (ibid.)
+- Boundaries
+  - Chicago
+    - Community areas
+    - Wards
+    - Neighborhoods
+    - TIF Districts (including Transit TIF districts which were created by the State of Illinois and Chicago in 2016)
+    - School attendance boundaries
+    - Special Service Areas
+    - Lakefront Protection Zone
+    - Enterprise Zones (however, these are a State of Illinois area and we should have these for the whole state)
+    - CHA opportunity areas
+    - Neighborhood Opportunity Fund (NOF) investment zones
+    - Neighborhood Opportunity Fund (NOF) Retail Thrive Zones
+    - Micro Market Recovery Program (MMRP) (these are a national area and we should have these for the whole state)
+    - Landmark Districts
+    - Landmark buildings
+    - National Register of Historic Places (these are a national area anad we should have these for the whole state, but there is not a single national or state dataset)
+    - Police districts
+    - Police beat
+    - Rivers
+  - Cook County
+    - Commissioner districts
+    - TIF Districts
+    - Townships
+    - Historical municipal annexation boundaries
+  - Illinois
+    - State House of Representatives
+    - State senators
+  - General
+    - ZIP codes (actually they are ZIP Code Tabulation Areas, or ZCTA, used by the Census) - the extent of these needs to be determined
+    - Voting precincts - the extent of these needs to be determined
+  - National
+    - Congressional districts
+- Building violations that go to administrative hearings
+  - Chicago
+- Business licenses
+  - Chicago
+- Ordinances (including zoning change applications)
+  - Chicago
+- Food inspections
+  - Chicago
+- Filming permits
+  - Chicago
