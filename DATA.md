@@ -4,8 +4,11 @@ Spatial data used on Chicago Cityscape (generally ordered by centrality to our s
   - Chicago
   - Evanston
   - Naperville
-- Parcels
-  - Cook County (includes tax data and ownership*)
+- Parcels and properties
+  - Cook County parcels (includes tax history and ownership*)
+  - City-owned land
+  - Cook County Land Bank Authority-owned land (CCLBA)
+  - Buildings reported vacant or abandoned to Chicago 311
 - Building violations
   - Chicago
 - Zoning
@@ -33,23 +36,35 @@ Spatial data used on Chicago Cityscape (generally ordered by centrality to our s
     - Landmark Districts
     - Landmark buildings
     - National Register of Historic Places (these are a national area anad we should have these for the whole state, but there is not a single national or state dataset)
+    - Metropolitan Pier and Exposition Authority (MPEA, McPier) taxing boundaries
     - Police districts
     - Police beat
+    - City-owned land
     - Rivers
+  - Evanston
+    - Wards
   - Cook County
     - Commissioner districts
     - TIF Districts
     - Townships
     - Historical municipal annexation boundaries
+    - Industrial Growth Zone
+  - DuPage County
+    - Board districts
   - Illinois
     - State House of Representatives
     - State senators
+    - Municipality boundaries
   - General
     - ZIP codes (actually they are ZIP Code Tabulation Areas, or ZCTA, used by the Census) - the extent of these needs to be determined
     - Voting precincts - the extent of these needs to be determined
+    - Neighborhood organizations - these are manually digitized by Cityscape
+    - Business organizations - these are manually digitized by Cityscape
   - National
     - Congressional districts
 - Building violations that go to administrative hearings
+  - Chicago
+- TIF-funded projects
   - Chicago
 - Business licenses
   - Chicago
@@ -59,3 +74,8 @@ Spatial data used on Chicago Cityscape (generally ordered by centrality to our s
   - Chicago
 - Filming permits
   - Chicago
+- Other spatial features
+  - Parking lots (data last extracted from OpenStreetMap on September 12, 2017; covering Chicagoland)
+  - Brownfields (data last extracted from OpenStreetMap on September 12, 2017; covering Chicagoland)
+  - Custom-drawn boundaries (this includes areas that were requested, or were drawn to represent places in the news; for example, this category includes the three Affordable Requirements Ordinance pilot areas)
+  - Personal Places (these are areas drawn by users, or drawn by Cityscape for specific users)
