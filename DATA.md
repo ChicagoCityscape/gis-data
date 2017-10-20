@@ -1,11 +1,12 @@
 Spatial data used on Chicago Cityscape (generally ordered by centrality to our service)
+* Indicates that the data is obtained on the fly via an API
 
 - Building permits
   - Chicago
   - Evanston
   - Naperville
 - Parcels and properties
-  - Cook County parcels (includes tax history and ownership*)
+  - Cook County parcels (includes tax history and ownership)
   - City-owned land
   - Cook County Land Bank Authority-owned land (CCLBA)
   - Buildings reported vacant or abandoned to Chicago 311
@@ -79,3 +80,5 @@ Spatial data used on Chicago Cityscape (generally ordered by centrality to our s
   - Brownfields (data last extracted from OpenStreetMap on September 12, 2017; covering Chicagoland)
   - Custom-drawn boundaries (this includes areas that were requested, or were drawn to represent places in the news; for example, this category includes the three Affordable Requirements Ordinance pilot areas)
   - Personal Places (these are areas drawn by users, or drawn by Cityscape for specific users)
+- Demographics
+  - Census data (Via the U.S. Census Bureau's CitySDK *)
