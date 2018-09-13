@@ -6,17 +6,25 @@ Spatial data used on Chicago Cityscape (generally ordered by centrality to our s
   - Evanston
   - Naperville
 - Parcels and properties
-  - Cook County parcels (includes tax history and ownership)
+  - Cook County parcels (includes tax bill history, assessment history, and taxpayer names)
   - City-owned land
   - Cook County Land Bank Authority-owned land (CCLBA)
   - Buildings reported vacant or abandoned to Chicago 311
+  - Vacant properties (as classified by the Cook County Assessor)
 - Building violations
   - Chicago
 - Zoning
   - Chicago
-    - General zones last updated September 11, 2017
-    - Planned Developments last updated July 6, 2017)
+    - General zones updated monthly
+    - Planned Developments updated monthly
     - Planned Manufacturing Districts (PMD)
+  - Evanston
+  - Northbrook
+  - Oak Park
+  - Naperville
+  - Maywood
+  - Aurora
+  - Unincorporated Cook County
 - Transit
   - Chicago Transit Authority 'L' stations (and entrances within Chicago for more accurate distances)
   - Metra stations (ibid.)
@@ -25,60 +33,58 @@ Spatial data used on Chicago Cityscape (generally ordered by centrality to our s
     - Community areas
     - Wards
     - Neighborhoods
-    - TIF Districts (including Transit TIF districts which were created by the State of Illinois and Chicago in 2016)
+    - TIF Districts (including Transit TIF districts which were enabled by the State of Illinois and Chicago in 2016)
     - School attendance boundaries
     - Special Service Areas
     - Lakefront Protection Zone
-    - Enterprise Zones (however, these are a State of Illinois area and we should have these for the whole state)
-    - CHA opportunity areas
     - Neighborhood Opportunity Fund (NOF) investment zones
     - Neighborhood Opportunity Fund (NOF) Retail Thrive Zones
-    - Micro Market Recovery Program (MMRP) (these are a national area and we should have these for the whole state)
+    - Micro Market Recovery Program (MMRP)
     - Landmark Districts
     - Landmark buildings
     - National Register of Historic Places (these are a national area anad we should have these for the whole state, but there is not a single national or state dataset)
     - Metropolitan Pier and Exposition Authority (MPEA, McPier) taxing boundaries
     - Police districts
-    - Police beat
-    - City-owned land
+    - Police beats
     - Rivers
+    - CHA opportunity areas (replaced by Mobility Areas in September 2018)
+    - Chicago Housing Authority (CHA) Mobility Areas
   - Evanston
     - Wards
   - Cook County
     - Commissioner districts
     - TIF Districts
-    - Townships
+    - Township "neighborhoods"
     - Historical municipal annexation boundaries
-    - Industrial Growth Zone
+    - Industrial Growth Zones
   - DuPage County
     - Board districts
   - Illinois
     - State House of Representatives
     - State senators
     - Municipality boundaries
+    - Townships
+    - Enterprise Zones
+    - Opportunity Zones
   - General
-    - ZIP codes (actually they are ZIP Code Tabulation Areas, or ZCTA, used by the Census) - the extent of these needs to be determined
+    - ZIP codes (we use the ZIP Code Tabulation Areas, or ZCTA, created by the Census)
     - Voting precincts - the extent of these needs to be determined
     - Neighborhood organizations - these are manually digitized by Cityscape
     - Business organizations - these are manually digitized by Cityscape
   - National
     - Congressional districts
-- Building violations that go to administrative hearings
-  - Chicago
-- TIF-funded projects
-  - Chicago
-- Business licenses
-  - Chicago
-- Ordinances (including zoning change applications)
-  - Chicago
-- Food inspections
-  - Chicago
-- Filming permits
-  - Chicago
+- Other Chicago datasets
+    - Building violations that go to administrative hearings
+    - TIF-funded projects
+    - Business licenses
+    - Ordinances (including zoning change applications)
+    - Food inspections
+    - Filming permits
 - Other spatial features
-  - Parking lots (data last extracted from OpenStreetMap on September 12, 2017; covering Chicagoland)
-  - Brownfields (data last extracted from OpenStreetMap on September 12, 2017; covering Chicagoland)
+  - Parking lots (data last extracted from OpenStreetMap on September 12, 2017; covering Chicagoland) [removed in 2018]
+  - Brownfields (data last extracted from OpenStreetMap on September 12, 2017; covering Chicagoland) [removed in 2018]
   - Custom-drawn boundaries (this includes areas that were requested, or were drawn to represent places in the news; for example, this category includes the three Affordable Requirements Ordinance pilot areas)
-  - Personal Places (these are areas drawn by users, or drawn by Cityscape for specific users)
+  - Personal Places (these are areas drawn by users, or drawn by us for specific users upon request)
 - Demographics
-  - Census data (Via the U.S. Census Bureau's CitySDK *)
+  - Census data (Via the U.S. Census Bureau's CitySDK) [removed in 2018 as the CitySDK was abandoned]
+  - Census Tracts and Census Block Groups for every Address Snapshot lookup; their Place pages have links to CensusReporter.org, an independent website that makes it easy to find and visualize Census data
