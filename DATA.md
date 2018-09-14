@@ -1,5 +1,4 @@
-Spatial data used on Chicago Cityscape (generally ordered by centrality to our service)
-* Indicates that the data is obtained on the fly via an API
+Spatial data used on Chicago Cityscape (generally ordered by centrality to our service) 
 
 - Building permits
   - Chicago
