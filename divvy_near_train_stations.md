@@ -51,7 +51,7 @@ group by s.name, lines, agency;
 
 - 50 feet: 14
 - 100 feet: 34
-- 150 feet: 68
+- 150 feet: 68 (51 CTA, 17 Metra)
 - 200 feet: 91
 - 250 feet: 105 (74 CTA, 31 Metra)
 - 300 feet: 122 (90 CTA, 32 Metra)
