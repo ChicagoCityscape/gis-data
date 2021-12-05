@@ -37,50 +37,21 @@ group by s.name, lines, agency;
 ````
 
 ## Count how many CTA/Metra rail stations have a nearby Divvy station
-
-
-## Count how many Divvy stations are near a CTA/Metra rail station
-14 Divvy stations within 50 feet of a CTA/Metra rail station entrance (9 CTA, 5 Metra)
-*50 feet is one of the 3 #SimpleBikeParking rules*
 ````
-select distinct
-	s.name as station,
+select 
+	s.name,
 	s.agency,
-	d.name AS divvy
+	count(distinct d.name),
+	jsonb_agg(distinct d.name)
 from m_divvy_stations AS d, stations_entrances AS s
-where st_dwithin(s.geom, d.geom, 50)
-and station_type = 'classic';
+where st_dwithin(s.geom, d.geom, 250)
+and station_type = 'classic'
+group by s.name, lines, agency;
 ````
 
-34 Divvy stations within 100 feet of a CTA/Metra rail station entrance (25 CTA, 9 Metra)
-````
-select distinct
-	s.name as station,
-	s.agency,
-	d.name AS divvy
-from m_divvy_stations AS d, stations_entrances AS s
-where st_dwithin(s.geom, d.geom, 100)
-and station_type = 'classic';
-````
-
-70 Divvy stations within 150 feet of a CTA/Metra rail station entrance (51 CTA, 19 Metra)
-````
-select distinct
-	s.name as station,
-	s.agency,
-	d.name AS divvy
-from m_divvy_stations AS d, stations_entrances AS s
-where st_dwithin(s.geom, d.geom, 150)
-and station_type = 'classic';
-````
-
-95 Divvy stations within 200 feet of a CTA/Metra rail station entrance (66 CTA, 29 Metra)
-````
-select distinct
-	s.name as station,
-	s.agency,
-	d.name AS divvy
-from m_divvy_stations AS d, 200 AS s
-where st_dwithin(s.geom, d.geom, 150)
-and station_type = 'classic';
-````
+- 50 feet: 14
+- 100 feet: 34
+- 150 feet: 68
+- 200 feet: 91
+- 250 feet: 105 (74 CTA, 31 Metra)
+- 300 feet: 122 (90 CTA, 32 Metra)
