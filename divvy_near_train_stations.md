@@ -37,6 +37,9 @@ group by s.name, lines, agency;
 ````
 
 ## Count how many CTA/Metra rail stations have a nearby Divvy station
+
+A "classic" Divvy station has an electronic kiosk for people to walk up to and pay to check out a bike; it also has several docks connected to the kiosk. The alternative station type is one where only electric Divvy bikes can be docked and has no kiosk. 
+
 ````
 select 
 	s.name,
