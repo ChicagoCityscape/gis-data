@@ -36,6 +36,10 @@ GeoJSON: [View Metra station entrances](https://github.com/ChicagoCityscape/tod-
 
 # Other data
 
+## Lakefront Protection Ordinance
+
+The Chicago Cityscape website has a [Lakefront Protection Ordinance](https://www.chicagocityscape.com/maps/lakefrontprotection.php) interactive map. We also have a copy of a scanned paper version of the map, obtained via FOIA from the Chicago Department of Planning & Development in 2014. The map shows the private and public use zones overlaid a 1973 zoning map. [Download the PDF file](https://github.com/ChicagoCityscape/gis-data/tree/master/lakefront_protection_ordinance).
+
 ## Illinois EMS regions 2020
 The State of Illinois has defined 11 Emergency Medical Services regions.
 
@@ -66,7 +70,7 @@ O'Hare: All of ZIP code 60666
 
 # ogr2ogr cheatsheet
 
-Yonah created the data using Google Maps, because it's easy to drop a point marker on the station entrance by looking at satellite imagery. The data needs to be converted from KML to CSV (to view as a spreadsheet), and to PostGIS (so it can be used as a database). 
+Yonah created the stations entrances data using Google Maps, because it's easy to drop a point marker on the station entrance by looking at satellite imagery. The data needs to be converted from KML to CSV (to view as a spreadsheet), and to PostGIS (so it can be used as a database). 
 
 ### convert KML to shapefile
 "metra.shp" is the destination file, and "Metra entrances.kml" is the source file. It doesn't work with KMZ (compressed KML) files – you must convert these using Google Earth. 
@@ -109,7 +113,7 @@ UPDATE cta SET geom_4326 = ST_SetSRID(ST_MakePoint(x::numeric, y::numeric),4326)
 COMMIT;
 ````
 
-### simplify a shapefile
+### simplify a GIS layer
 Run this command in the directory where you have the "Chicago-Parcels.shp" file stored. On Mac, the easiest way to do that is to drag the directory icon from the Finder onto the Terminal icon in the Dock. 
 
 The number after the ````-simplify```` argument is the tolerance you want. There's no magic number, or even a rule of thumb. The best number depends on the complexity (number of vertices and edges) of your shape. Too high of a number and you can simplify the shape to non-existence (it will disappear).
