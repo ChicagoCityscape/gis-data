@@ -68,6 +68,28 @@ O'Hare: All of ZIP code 60666
 * [McPier boundary as Shapefile, EPSG:3435](https://github.com/ChicagoCityscape/tod-data/blob/master/mcpier/mcpier_shapefile_3435.zip)
 * [McPier boundary as KML](https://github.com/ChicagoCityscape/tod-data/blob/master/mcpier/mcpier.kml)
 
+## Chicago Green View Index
+
+The Green View Index (GVI) estimates how much of the view along a street is vegetation, on a scale of 0 to 100, using Google Street View imagery and the method from [MIT Senseable City Lab's Treepedia project](http://senseable.mit.edu/treepedia/). Mike Bingaman and Steven Vance collected this data, and [Mike's repository](https://github.com/bingaman/chicago-gvi) is the original source. Chicago Cityscape no longer shows it on the website.
+
+This copy has 73,248 points along Chicago streets, irregularly spaced and not on a grid. The median distance to the nearest point is about 37 meters. The imagery dates from July 2007 to August 2018, and 95% of it is from 2016-2018. The data has not been updated since.
+
+Download it from the [chicago_green_view_index](chicago_green_view_index) folder as CSV, GeoJSON or GeoPackage. All three use EPSG:4326.
+
+| Field | Description |
+|---|---|
+| `gid` | Row ID |
+| `x`, `y` | Longitude and latitude (CSV only; the other formats store these as the geometry) |
+| `g` | Green View Index score |
+| `d` | Year and month of the Street View image |
+| `id` | Street View panorama ID |
+
+Before using it:
+- Consider leaving out points dated May (6,536), which the original source says are too early in the season.
+- Consider leaving out points with a score of 0 (3,318), which the original source says are most likely bad results.
+- 4,140 rows repeat a location already in the file.
+- The original repository has no license file, and the scores come from Google Street View imagery, so check that your use is allowed.
+
 # ogr2ogr cheatsheet
 
 Yonah created the stations entrances data using Google Maps, because it's easy to drop a point marker on the station entrance by looking at satellite imagery. The data needs to be converted from KML to CSV (to view as a spreadsheet), and to PostGIS (so it can be used as a database). 
